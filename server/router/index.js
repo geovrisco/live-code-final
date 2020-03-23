@@ -7,5 +7,6 @@ Router.post('/login', contUser.login)
 Router.get('/countries',authenticate, contCountry.getCountry)
 Router.get('/reports',authenticate,contCountry.getReport)
 Router.post('/reports',authenticate,contCountry.postReport)
+Router.delete('/reports/:id',authenticate,contCountry.deleteReports)
 
 module.exports= Router
