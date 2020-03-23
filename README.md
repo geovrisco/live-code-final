@@ -1,7 +1,7 @@
 # Covid19 - Livecode 2 Phase 2
 
 ​
-
+balik dari istirahat
 ## Specs
 
 Terdapat sebuah aplikasi yang dapat melihat jumlah kasus penyebaran virus yang terdapat pada negara di dunia, dan juga authenticated user dapat melaporkan kasus pada negara yang terdaftar.
